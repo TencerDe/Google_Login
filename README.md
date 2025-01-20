@@ -16,7 +16,7 @@ Django Allauth integration for streamlined social authentication
 
 Prerequisites
 
-Python 3.8+
+Python 3.11
 
 pip (Python package manager)
 
